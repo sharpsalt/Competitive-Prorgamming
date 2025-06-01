@@ -1,10 +1,10 @@
-# 🏁 Competitive Programming Repository
+#  Competitive Programming Repository
 
 This repository is a curated collection of competitive programming solutions, templates, and utilities aimed at improving problem-solving speed and accuracy in coding contests. It includes both problem solutions and reusable algorithm templates written primarily in **C++** and **Python**.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - `C++/`  
   Contains hand-written C++ solutions to various competitive programming problems.  
@@ -12,15 +12,15 @@ This repository is a curated collection of competitive programming solutions, te
   - `template.json` – A structured and searchable **template hub** covering a wide range of standard algorithms and data structures used in competitive programming.
 
 - `README.md`  
-  This file ✍️
+  This file ✍
 
 ---
 
-## 🧠 Algorithm Templates
+##  Algorithm Templates
 
 One of the key features of this repository is the `template.json` file under the `C++/` directory. It serves as a **comprehensive snippet library** of reusable code segments for:
 
-### 🧩 Key Algorithms Included:
+###  Key Algorithms Included:
 
 - **Pragmas** (C++ Utils to Avoid TLE by Enabling specific optimizations when compiling with GCC or Clang.)
 - **Fast IO** (in C++, for C++20 Specific , Copied from Research Paper)
@@ -41,20 +41,20 @@ One of the key features of this repository is the `template.json` file under the
   - Rolling Hash  
 - And more (frequently updated!)
 
-📦 The JSON format allows for easy lookup, integration into custom IDE snippets, or even use in a browser-based tool for quick reference during contests.
+The JSON format allows for easy lookup, integration into custom IDE snippets, or even use in a browser-based tool for quick reference during contests.
 
 ---
 
-## ✅ Features
+##  Features
 
-- 📚 Clean, categorized templates for fast access
-- 🚀 Competitive programming-ready code snippets
-- 🧪 Tested solutions and snippets used in real contests
-- 🔄 Continuously growing template library
+- Clean, categorized templates for fast access
+- Competitive programming-ready code snippets
+- Tested solutions and snippets used in real contests
+- Continuously growing template library
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Browse language-specific directories (`C++/`,`Python/`)
 2. For algorithms or code snippets:
@@ -64,14 +64,14 @@ One of the key features of this repository is the `template.json` file under the
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - `template.json` is manually maintained — more algorithms and data structures will be added over time.
 - Naming may follow shorthand used during contests for speed.
 
 ---
 
-## 📈 Future Additions
+##  Future Additions
 
 - More templates (Lazy Segment Trees, Mo's Algorithm, Centroid Decomposition)
 - Cleaner CLI/GUI for template lookup
@@ -80,7 +80,7 @@ One of the key features of this repository is the `template.json` file under the
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 Feel free to fork the repo and submit PRs to:
 - Fix errors or optimize templates
@@ -91,13 +91,13 @@ Feel free to fork the repo and submit PRs to:
 
 ---
 
-## 📜 License
+##  License
 
 This project is released under the [MIT License](LICENSE).
 
 ---
 
-## 🔗 Useful Links (Which I used To Practice)
+##  Useful Links (Which I used To Practice)
 
 - [Competitive Programming Handbook (CSES)](https://cses.fi/book/book.pdf)
 - [Codeforces](https://codeforces.com/)
