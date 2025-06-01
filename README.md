@@ -1,2 +1,7 @@
 # Competitive-Prorgamming
-This repository contains all of the necessary templates which i uses while solving or tackling questions.
+This Repo Consis of 3 Different Types
+
+->C++
+->Stress Testing
+
+
